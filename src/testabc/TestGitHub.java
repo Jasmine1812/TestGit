@@ -7,4 +7,9 @@ public class TestGitHub {
                 System.out.println("jasmine");
 
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 }
