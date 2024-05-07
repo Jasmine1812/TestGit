@@ -1,6 +1,8 @@
+package testabc;
+
 public class TestGitHub {
 
-    public void test(){
+    public void main(){
         System.out.println("11");
     }
 }
