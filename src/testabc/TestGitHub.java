@@ -3,7 +3,7 @@ package testabc;
 public class TestGitHub {
 
     public void main(){
-        System.out.println("Main Update");
+        System.out.println("Git Update");
 
     }
 
